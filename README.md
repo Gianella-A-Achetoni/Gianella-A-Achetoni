@@ -1,8 +1,6 @@
 - hola-mundo 
 
-mi primer repositorio en git 
-
-Vivo en :argentina:, tengo 18 años y soy :student:
+Vivo en :argentina:, tengo 18 años y soy  estudiante de Tecnicatura Universitaria en Programacion, en la UTN Regional San Rafael. :student:
 
 Me gustan los :book:, que hablan de :dragon:, :love:, :demon:,
 
