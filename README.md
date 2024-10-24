@@ -31,11 +31,14 @@ _Soy estudiante de la Tecnicatura en Programación y me apasiona ampliar mis con
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gianella-A-Achetoni&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianella-A-Achetoni&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gianella-A-Achetoni&theme=highcontrast)](https://git.io/streak-stats)
+  
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Visualizaciones 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ezeflores1988}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gianella-A-Achetoni}/count.svg" /></p>
 <!---
 Gianella-A-Achetoni/Gianella-A-Achetoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
