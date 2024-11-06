@@ -1,20 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
-<h1 align="center"> ¡Hola! Soy gianella </h1>
+<h1 align="center"> ¡Hi! I am Gianella Ariadna Achetoni</h1>
 <p align="center">
   <img src="https://github.com/Gianella-A-Achetoni/Gianella-A-Achetoni/assets/135769239/f426aa25-f2eb-410d-a3cb-3ab2e7fd326a" alt="imagen" />
 </p>
 
-## ¿Quién soy? 
+## Who am I? 
 
-_Soy estudiante de la Tecnicatura en Programación y me apasiona ampliar mis conocimientos a través de cursos adicionales. Me adapto fácilmente a trabajar tanto de manera individual como en equipo, lo que me permite desarrollar proyectos y resolver problemas en diversas situaciones._
+_I am a Programming student passionate about expanding my knowledge through additional courses. I easily adapt to working both independently and as part of a team, allowing me to develop projects and solve problems in various situations._
 
-## ¿Comó encontrarme?
+## How to find me?
 <br>
 
-<a href="https://www.linkedin.com/in/gianella-ariadna-achetoni-997025254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gianella-A-Achetoni" height="35" width="40" /></a>
-<a href="mailto:gianellaachetoni@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gianellaachetoni@gmail.com" height="35" width="40" /></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/gianella-ariadna-achetoni-997025254/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gianella-A-Achetoni" height="35" width="40" />
+    </a>
+    <a href="mailto:gianellaachetoni@gmail.com">
+        <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gianellaachetoni@gmail.com" height="35" width="40" />
+    </a>
+</div>
 
-## Lenguajes y Herramientas:
+
+## 💻 Tech Stack:
 <br>
 
 <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
